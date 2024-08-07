@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(140, 0, 255);
+    color: white;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items : center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: rgb(68, 0, 156);
+    color: rgb(255, 255, 255);
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo{
+     display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 50%;
+}
+
+img{
+    max-width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
